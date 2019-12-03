@@ -1,0 +1,9 @@
+*/.idea
+.idea/
+*.csv
+*.xml
+*.iml
+
+.xml
+.csv
+.iml
